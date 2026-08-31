@@ -1,0 +1,9 @@
+1er error presenciado en la elaboración del taller: fallas personales al intentar renombrar y mover la primera
+captura de evidencia de su carpeta pictures a la carpeta evidencias, en esta captura está la evidencia
+de haber actualizado el equipo con apt update y apt upgrade que sorpresivamente me permitieron hacer sin poner sudo.
+Ivestigando parece ser que es porque ya estoy en un usuario de administrador o porque el sudo de alguna manera es
+tomado implícito por mi sistema operativo al poner apt.
+
+2do: al instalar neofetch simplemente utilicé el enlace proporcionado en el taller y bajé en el GitHub a 
+Installation para asi simplemente copiar el comando que estaba para Ubuntu (Mint está basado en Ubuntu) y de esa
+forma neofetch se instaló en el equipo 
