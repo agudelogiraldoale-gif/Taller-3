@@ -6,4 +6,26 @@ tomado implícito por mi sistema operativo al poner apt.
 
 2do: al instalar neofetch simplemente utilicé el enlace proporcionado en el taller y bajé en el GitHub a 
 Installation para asi simplemente copiar el comando que estaba para Ubuntu (Mint está basado en Ubuntu) y de esa
-forma neofetch se instaló en el equipo 
+forma neofetch se instaló en el equipo.
+
+Explicaciòn de especificaciones mostradas por Neofetch: 
+OS: es la versiòn del sistema operativo Linux Mint que estoy usando junto a su arquitectura
+Host: es la referencia de la computadora en la que se ejecuta el sistema operativo, si estuviera en la màquina virtual aparecerìa el hipervisor usado
+Kernel: la versiòn del kernel o nùcleo de linux
+Uptime: tiempo de la màquina encendida desde el ùltimo arranque
+Shell: la versiòn del interprete de comandos que estoy usando en la terminal
+Resolution: resoluciòn de la pantalla en pixeles baseXaltura
+DE: en la versiòn de el entorno de escritorio con la interfaz gràfica que usa el sistema operativo
+Terminal: gnome es la aplicaciòn de terminal que se està usando 
+CPU: especificaciones y referencia de el procesador de el equipo que alberga el linux mint
+GPU: especificaciones y referencia de la tarjeta gràfica de el equipo que alberga el linux mint
+memory: el consumo actual de RAM/ totalidad de RAM que hay en el equipo
+
+hasta el momento se han repetido errores parecidos relacionados con la gestiòn de permisos ya que aùn no comprendo cuando debe usarse el comando sudo 
+y cuando no o que archivos son reservados y de imposible acceso como el error visible en la captura 4 cuando intentè poner el echo >> con el ID en la
+carpeta etc, donde no era posible, otros errores comunes son de sintaxis ya que se me dificulta recordar el uso de algunos comandos 
+
+en la evidencia_05 se aprecia el ocultamiento de el archivo no_me_borres.txt en la carpeta Taller-3
+
+en la evidencia_06 se aprecia el cambio de nombre de la carpeta y un error al guardar el primer intento de captura, no recordè el cambio de nombre al
+poner la ruta donde querìa que se guardara la captura  
